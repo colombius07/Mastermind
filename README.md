@@ -57,12 +57,9 @@ Ce fichier gère la logique du jeu Mastermind. Il évalue les propositions, met 
 
 ## Temps Passé
 
-*À compléter par vous-même.*
-
-### Exemple :
 - **Analyse et planification :** 2 heures
-- **Développement initial :** 5 heures
+- **Développement initial :** 7 heures
 - **Tests et débogage :** 3 heures
-- **Documentation :** 1 heure
+- **Documentation :** 2 heure
 
-Total : *11 heures*
+Total : *14 heures*
